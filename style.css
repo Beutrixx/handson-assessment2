@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(202, 255, 202);
+}
+
+header {
+
+    text-align: center;
+    background-color: rgb(209, 255, 209);
+
+}
+
+nav {
+    background-color: rgb(228, 236, 228);
+    font-style: normal;
+    
+}
+
+main {
+    background-image: url(flower.jpg);
+    background-blend-mode: difference;
+    text-align: center;
+    color: rgb(4, 85, 61);
+    padding: 0%;
+    background-size: cover;
+    
+}
+section {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+footer {
+    background-color: aliceblue;
+    text-align: center;
+}
